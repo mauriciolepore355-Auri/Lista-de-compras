@@ -1,0 +1,19 @@
+{
+  "name": "Mi Lista de Compras",
+  "short_name": "Mi Lista",
+  "description": "Lista de compras con precios, ofertas y total.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6f8",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
